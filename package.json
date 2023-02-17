@@ -1,6 +1,6 @@
 {
   "name": "@kiqr/core-api-js",
-  "version": "0.5.1",
+  "version": "0.6.1",
   "description": "OpenAPI client for @kiqr/core-api-js",
   "author": "OpenAPI-Generator",
   "repository": {
